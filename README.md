@@ -1,2 +1,1 @@
-# Programming-Project-1
-Programming Project #1
+Programming Project 1 involves constructing an algorithm for finding the closest pairs of points in P. Your algorithm inputs are P and m. And we are to return the distance between the m closest pairs of points, including x and y coordinates.
