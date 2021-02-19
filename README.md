@@ -22,8 +22,8 @@ IDE used - Eclipse / Compiler used - JDT / Programming Language - Java
 > Instructions to run code: 
   1. Open the .java programs on Eclipse (Coordinate.java, PairofCoordinates.java, CoordinateSolution.java)
   2. click on the Run button for CoordinateSolutions.java
-  3. Input the number of coordinate points to generate randomly (P value):
-  4. Input the value of m you wish to obtain: 
+  3. Input the number of coordinate points to generate randomly (P value). This should be an integer value.
+  4. Input the value of m you wish to obtain. This should be an integer value less than the P value.
   5. Console will output the coordinate points and distance between the closest pairs of points.
 
 ## List of Files in Submission:
