@@ -1,5 +1,5 @@
 
-### Programming Project 1 <img src="man/figures/logo.png" align="right" alt="" width="120" />
+# Programming Project 1 <img src="man/figures/logo.png" align="right" alt="" width="120" />
 
 > Welcome to Programming Project 1:
 > Programming Project 1 aims to constuct an algorithm for finding the closest pairs of points in P.
