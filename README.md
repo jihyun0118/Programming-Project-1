@@ -6,7 +6,7 @@
 > The algorithm inputs are P and m. Distances will be returned between the m closest pairs of points, 
 > including their x and y coordinates.
 
-## Overview - Project Requirements
+## Project Requirements
 
 An algorithm will be defined using pseudocode.
 The worst-case running time will be determined.
