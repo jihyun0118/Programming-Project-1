@@ -32,6 +32,5 @@ Programming-Project-1 includes
 2. Algorithm written in pseudocode (.PDF)
 3. Trace Runs (.txt)
 4. Test Runs to measure asymptotic complexity (.txt)
-5. Analysis comparing worst-case running time to code's worst case running time (.PDF)
-6. Retrospection - aspects of algorithm to improve upon. (.PDF)
+
 
