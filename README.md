@@ -13,11 +13,20 @@ The worst-case running time will be determined.
 Assignment instructions included:
 
   - Implementation of the algorithm
-  - Trace runs
   - Asymptotic behavior measurements
-  - Analysis comparing algorithm's worst-case to code's worst case will be compared.
+  - Comparing algorithm's worst-case to code's worst case
+  - Trace runs
+  
+## Compiling Instructions
+IDE used: Eclipse
+Compiler used: JDT
+Programming Language: Java
+Instructions to run code: 
+  1. Open the .java program
+  2. click on the Run button
 
 ## List of Files in Submission:
+1. 
 
 ``` r
 # Install the CRAN version
