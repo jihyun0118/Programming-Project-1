@@ -18,9 +18,7 @@ Assignment instructions included:
   - Trace runs
   
 ## Compiling Instructions
-IDE used - Eclipse
-Compiler used - JDT
-Programming Language - Java
+IDE used - Eclipse / Compiler used - JDT / Programming Language - Java
 > Instructions to run code: 
   1. Open the .java program
   2. click on the Run button
