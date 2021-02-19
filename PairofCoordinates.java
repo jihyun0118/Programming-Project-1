@@ -24,4 +24,4 @@ class PairofCoordinates implements Comparable<PairofCoordinates>
    {
       return this.squaredDistance - other.squaredDistance;
    }
-} // end class PairofCoordinates
+} 
