@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /*
- * class CoordinateSolution
+ * class CoordinateSolution inputs P and m, and returns the distances between the m closest pairs of points.
  * 
  * */
 
@@ -19,7 +19,7 @@ class CoordinateSolution
             int number = sc.nextInt();    
             Coordinate P[] = new Coordinate[number];
         
-                for(int i = 0 ; i < number ; i ++)/Users/jihyunlim/Desktop/Eclipse Work/ALLJAVASTUFF/ALLJAVASTUFF/javaAssignments/Coordinate.java
+                for(int i = 0 ; i < number ; i ++)
                 {
                     int xCoordinate = random.nextInt(1000);
                     int yCoordinate = random.nextInt(1000);
