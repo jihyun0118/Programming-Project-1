@@ -34,4 +34,4 @@ public class Coordinate
     {
         return String.format("{%s, %s}", this.xCoordinate, this.yCoordinate);
     }
-} // end class Coordinate
+}
