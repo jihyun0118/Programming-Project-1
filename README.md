@@ -27,17 +27,11 @@ IDE used - Eclipse / Compiler used - JDT / Programming Language - Java
   5. Console will output the coordinate points and distance between the closest pairs of points.
 
 ## List of Files in Submission:
-1. 
+Programming-Project-1 includes 
+1. Three .java files (Coordinate.java, PairofCoordinates.java, CoordinateSolution.java)
+2. Algorithm written in pseudocode (.PDF)
+3. Trace Runs (.txt)
+4. Test Runs to measure asymptotic complexity (.txt)
+5. Analysis comparing worst-case running time to code's worst case running time (.PDF)
+6. Retrospection - aspects of algorithm to improve upon. (.PDF)
 
-``` r
-# Install the CRAN version
-install.packages("casino")
-
-# Install development version from GitHub
-devtools::install_github("anthonypileggi/casino")
-```
-
-## 
-
-Are you getting impatient already? Then use `play()` to get started
-immediately.
